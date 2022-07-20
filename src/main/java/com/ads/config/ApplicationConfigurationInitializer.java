@@ -11,6 +11,7 @@ public class ApplicationConfigurationInitializer implements WebApplicationInitia
 	public void onStartup(ServletContext servletContext) throws ServletException {
 		// TODO Auto-generated method stub
 		System.out.println("called....");
+		System.out.println("hello");
 
 	}
 
